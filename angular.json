@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularInitialStructure"
+    }
+  },
+  "defaultProject": "AngularInitialStructure",
+  "cli": {
+    "analytics": false
+  }
 }

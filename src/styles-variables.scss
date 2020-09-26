@@ -1,0 +1,23 @@
+@import '~@angular/material/theming';
+
+
+// variables
+$default-colors: mat-palette($mat-grey, 500);
+$info-colors: mat-palette($mat-blue-grey, 500);
+$success-colors: mat-palette($mat-green, 500);
+$warning-colors: mat-palette($mat-amber, 500);
+$error-colors: mat-palette($mat-red, 500);
+
+/* 
+Create your custom color
+
+Example:
+
+$orange:(
+  50: #fff, -> name: #hexadecimal code
+  contrast: (
+    50: $dark-primary-text or $light-primary-text
+  )
+)
+
+*/
