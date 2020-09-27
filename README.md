@@ -4,6 +4,7 @@
 -> LAZY LOADING
 -> THEMES
 -> LAYOUT MAIN WITH ROUTING
+-> ANGULAR MATERIAL
 
 # AngularInitialStructure
 
